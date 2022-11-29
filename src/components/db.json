@@ -1,0 +1,16 @@
+[
+      {
+        "sl_no": 1,
+        "url_value": "https://www.pluralsight.com/guides/react-mock-api",
+        "appl_name": "R6",
+        "status": "Red"
+        
+      },
+      {
+        "sl_no": 2,
+        "url_value": "https://www.pluralsight.com/guides/react-mock-api",
+        "appl_name": "R6",
+        "status": "Green"
+      }
+      
+]
